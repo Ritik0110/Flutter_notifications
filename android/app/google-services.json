@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780462284563",
+    "project_id": "flutter-notification-b597b",
+    "storage_bucket": "flutter-notification-b597b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780462284563:android:2c47eeb26296528045c4e6",
+        "android_client_info": {
+          "package_name": "com.silvertouch.flutternotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780462284563-2esksqvitetcrdfoc8ic3h406j1ors2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePri8BECLZHf8p1KNEqIKoqW62etnb9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780462284563-2esksqvitetcrdfoc8ic3h406j1ors2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

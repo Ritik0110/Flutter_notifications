@@ -13,6 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     services.requestNotificationPermission();
+    services.firebaseInit();
     services.getToken().then((value){
       print("Device token");
       print(value);
